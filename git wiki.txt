@@ -1,0 +1,10 @@
+#git init  -- initialzation
+
+#git add .  ----add data into the cache or index
+
+#git status   -- status
+
+#git commit -m 'first commit'  --- commit the data 
+
+# git config --global user.email "venkatesh.linux1@gmail.com"  --- configure the user email
+
