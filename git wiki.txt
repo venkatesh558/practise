@@ -8,3 +8,8 @@
 
 # git config --global user.email "venkatesh.linux1@gmail.com"  --- configure the user email
 
+# git config --global user.name "venkatesh558"   ----
+
+# git remote add origin https://github.com/venkatesh558/practise.git
+
+#git push -u origin master
